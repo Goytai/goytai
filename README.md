@@ -36,7 +36,7 @@
     - NodeJS (Em Curso)
    
  - Adicionais:
-    - TeX (LaTeX e semelhantes)
+    - LaTeX
 
 # Contatos:
   Caso deseje realizar algum projeto comigo é só chamar nas seguintes redes:
