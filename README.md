@@ -29,8 +29,8 @@
     - HTML5
     - CSS3
     - WordPress
-    - ReactJS
-    - NodeJS
+    - ReactJS (Em Curso)
+    - NodeJS (Em Curso)
     - BootStrap
    
  - Adicionais:
