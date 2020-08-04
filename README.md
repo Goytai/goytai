@@ -28,10 +28,12 @@
 - Outros:
     - HTML5
     - CSS3
+    - jQuery
+    - BootStrap
     - WordPress
+    - MySQL
     - ReactJS (Em Curso)
     - NodeJS (Em Curso)
-    - BootStrap
    
  - Adicionais:
     - TeX (LaTeX e semelhantes)
