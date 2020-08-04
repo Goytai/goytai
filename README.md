@@ -1,16 +1,45 @@
-### Hi there 👋
+# Quem Sou ?
+## Pessoal
+ - Meu nome é Nathan
+ - Tenho 18 anos (nascido em 2002)
+ - Já me aventurei em outros rumos da programação, mas é a WEB que eu amo <3
 
-<!--
-**Goytai/goytai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profissional
+  - Me considero um desenvolvedor júnior
+  - Estudo desenvolvimento WEB desde 2016 anos
+  - Sempre aberto a novos conhecimentos
+  - Nunca publiquei um projeto grande
+  - Atualmente sou estudante, vulgo, desempregado
 
-Here are some ideas to get you started:
+## Estudos
+  - Estudo desenvolvimento por hobby e infelismente nunca fui convidade um grande projeto de terceiros
+  - Formado como técnico florestal no Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo
+  - Cursando Linc. de Matemática na Universidade Federal de Viçosa
+  
+# Enteresses
+  Estou aberto a novos projetos e conhecimentos nas diferentes áreas do desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Linguagens, Técnologias e Outros
+
+- Linguagens:
+    - PHP
+    - JavaScript
+    
+- Outros:
+    - HTML5
+    - CSS3
+    - WordPress
+    - ReactJS
+    - NodeJS
+    - BootStrap
+   
+ - Adicionais:
+    - TeX (LaTeX e semelhantes)
+
+# Contatos:
+  Caso deseje realizar algum projeto comigo é só chamar nas seguintes redes:
+  
+  - Instagram: @goytai
+  - Twitter: @goytai
+  - E-mail: nathanvieiradesouza@gmail.com
+  - Discord: Goytai#3831
