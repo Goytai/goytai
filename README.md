@@ -43,5 +43,5 @@
   
   - Instagram: @goytai
   - Twitter: @goytai
-  - E-mail: nathanvieiradesouza@gmail.com
+  - E-mail: dev.goytai@gmail.com
   - Discord: Goytai#3831
