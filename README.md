@@ -12,14 +12,14 @@
   - Atualmente sou estudante, vulgo, desempregado
 
 ## Estudos
-  - Estudo desenvolvimento por hobby e infelismente nunca fui convidade um grande projeto de terceiros
+  - Estudo desenvolvimento por hobby e infelizmente nunca fui convidado para um grande projeto de terceiros
   - Formado como técnico florestal no Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo
   - Cursando Linc. de Matemática na Universidade Federal de Viçosa
   
-# Enteresses
+# Interesses
   Estou aberto a novos projetos e conhecimentos nas diferentes áreas do desenvolvimento
 
-# Linguagens, Técnologias e Outros
+# Linguagens, Tecnologias e Outros
 
 - Linguagens:
     - PHP
