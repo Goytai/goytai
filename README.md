@@ -45,3 +45,4 @@
   - Twitter: @goytai
   - E-mail: dev.goytai@gmail.com
   - Discord: Goytai#3831
+  - Linkedin: https://www.linkedin.com/in/goytai/
