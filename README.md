@@ -1,48 +1,54 @@
-# Quem Sou ?
-## Pessoal
- - Meu nome é Nathan
- - Tenho 18 anos (nascido em 2002)
- - Já me aventurei em outros rumos da programação, mas é a WEB que eu amo <3
+<h2>📖 About me</h2>
 
-## Profissional
-  - Me considero um desenvolvedor júnior
-  - Estudo desenvolvimento WEB desde 2016 anos
-  - Sempre aberto a novos conhecimentos
-  - Nunca publiquei um projeto grande
-  - Atualmente sou estudante, vulgo, desempregado
+Hi, my name is Nathan Vieira, i am Brazilian and I consider myself a junior web developer.
 
-## Estudos
-  - Estudo desenvolvimento por hobby e infelizmente nunca fui convidado para um grande projeto de terceiros
-  - Formado como técnico florestal no Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo
-  - Cursando Linc. de Matemática na Universidade Federal de Viçosa
-  
-# Interesses
-  Estou aberto a novos projetos e conhecimentos nas diferentes áreas do desenvolvimento
+I was born in 2002 and I study web development since 2016.
+I also ventured into other languages, but web development is my love! 🧡
 
-# Linguagens, Tecnologias e Outros
+I am always open to new knowledge.
 
-- Linguagens:
-    - PHP
-    - JavaScript
-    
-- Outros:
-    - HTML5
-    - CSS3
-    - jQuery
-    - BootStrap
-    - WordPress
-    - MySQL
-    - ReactJS (Em Curso)
-    - NodeJS (Em Curso)
-   
- - Adicionais:
-    - LaTeX
+<h2>🎓 Academic</h2>
+I am graduated at IFES (Federal Institute of Education, Science and Technology of Espírito Santo) as a Forestry Technician.
 
-# Contatos:
-  Caso deseje realizar algum projeto comigo é só chamar nas seguintes redes:
-  
-  - Instagram: @goytai
-  - Twitter: @goytai
-  - E-mail: dev.goytai@gmail.com
-  - Discord: Goytai#3831
-  - Linkedin: https://www.linkedin.com/in/goytai/
+Today, i am a math student at UFV (Federal University of Viçosa).
+
+<h2>👣 Interests</h2>
+I am open to new projects in different areas of development.
+
+<h2>🧠 Knowledge</h2>
+
+Web Development:
+
+| Technology   | Skill Level |
+| :----------: | :---------: |
+| HTML         | Experient   | 
+| CSS, SASS    | Experient   | 
+| JavaScript   | Experient   |
+| jQuery       | Experient   |
+| PHP          | Average     |
+| SQL          | Average     |
+| BootStrap    | Average     |
+| NodeJS       | Average     |
+| ReactJS      | Average     |
+| NextJS       | Average     |
+| Typscript    | Average     |
+| React Native | Beginner    |
+| GIT          | Beginner    |
+
+Others:
+
+| Technology / Area   | Skill Level |
+| :-----------------: | :---------: |
+| Forestry Technician | Graduate    |
+| LaTeX               | Average     |
+| Mathematics         | Ongoing     |
+
+<h2>📞 Contact</h2>
+<p align="center">
+    <a href="https://github.com/Goytai"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/github.svg" width="100px" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/goytai/"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/linkedin.svg" width="100px" alt="Linkedin"/></a>
+    <a href="mailto:dev.goytai@gmail.com"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/gmail.svg" width="100px" alt="Email"/></a>
+</p>
+
+------------
+Thanks for reading 🧡 by Goytai
