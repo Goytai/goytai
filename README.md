@@ -15,34 +15,6 @@ Today, I am a math student at UFV (Federal University of Viçosa).
 <h2>👣 Interests</h2>
 I am open to new projects in different areas of development.
 
-<h2>🧠 Knowledge</h2>
-
-Web Development:
-
-| Technology   | Skill Level |
-| :----------: | :---------: |
-| HTML         | Experient   | 
-| CSS, SASS    | Experient   | 
-| JavaScript   | Experient   |
-| jQuery       | Experient   |
-| PHP          | Average     |
-| SQL          | Average     |
-| BootStrap    | Average     |
-| NodeJS       | Average     |
-| ReactJS      | Average     |
-| NextJS       | Average     |
-| Typscript    | Average     |
-| React Native | Beginner    |
-| GIT          | Beginner    |
-
-Others:
-
-| Technology / Area   | Skill Level |
-| :-----------------: | :---------: |
-| Forestry Technician | Graduate    |
-| LaTeX               | Average     |
-| Mathematics         | Ongoing     |
-
 <h2>📞 Contact</h2>
 <p align="center">
     <a href="https://github.com/Goytai"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/github.svg" width="100px" alt="GitHub"/></a>
