@@ -1,6 +1,6 @@
 <h2>📖 About me</h2>
 
-Hi, my name is Nathan Vieira, I am Brazilian and I consider myself a junior web developer.
+Hi, my name is Nathan Vieira, I am Brazilian and I consider myself a lover of software development.
 
 I was born in 2002 and I study web development since 2016.
 I also ventured into other languages, but web development is my love! 🧡
