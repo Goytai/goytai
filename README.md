@@ -10,8 +10,6 @@ I am always open to new knowledge.
 <h2>🎓 Academic</h2>
 I am graduated at IFES (Federal Institute of Education, Science and Technology of Espírito Santo) as a Forestry Technician.
 
-Today, I am a math student at UFV (Federal University of Viçosa).
-
 <h2>👣 Interests</h2>
 I am open to new projects in different areas of development.
 
